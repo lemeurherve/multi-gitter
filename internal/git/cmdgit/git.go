@@ -79,7 +79,7 @@ func (g *Git) Commit(commitAuthor *git.CommitAuthor, commitMessage string) error
 		return err
 	}
 
-	cmd = exec.Command("git", "commit", "--no-verify", "-m", commitMessage)
+	cmd = exec.Command("git", "commit", "-S", "--no-verify", "-m", commitMessage)
 
 	if commitAuthor != nil {
 		cmd.Env = append(cmd.Env,
