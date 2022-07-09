@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.43.0](https://www.github.com/lemeurherve/multi-gitter/compare/v0.42.0...v0.43.0) (2022-07-09)
+
+
+### Features
+
+* sign cmd git commit ([f34283b](https://www.github.com/lemeurherve/multi-gitter/commit/f34283baa5474dcdc2b687b790626aac3bde46d7))
+
+
+### Miscellaneous
+
+* **gitlab:** fixed subgroup spelling ([46f178a](https://www.github.com/lemeurherve/multi-gitter/commit/46f178ab097fefb3d07b65f3522e3e516638107a))
+
+
+### Dependencies
+
+* update github.com/eiannone/keyboard digest to 0d22619 ([f38b2f5](https://www.github.com/lemeurherve/multi-gitter/commit/f38b2f5b2bf17afab06ed709c6b5ba4c9c9a6075))
+* update golang.org/x/oauth2 digest to 2104d58 ([c4605e2](https://www.github.com/lemeurherve/multi-gitter/commit/c4605e2c8db5440fc68b5b779ee46b360c4459db))
+* update module github.com/spf13/cobra to v1.5.0 ([eb15db4](https://www.github.com/lemeurherve/multi-gitter/commit/eb15db4fc137d5a23f3d137a778e4235b26b4e74))
+* update module github.com/spf13/viper to v1.12.0 ([ffdf7ae](https://www.github.com/lemeurherve/multi-gitter/commit/ffdf7ae901b1f98fdd279fd5d1aeb72095bf2ad2))
+* update module github.com/xanzy/go-gitlab to v0.68.0 ([78ca7f3](https://www.github.com/lemeurherve/multi-gitter/commit/78ca7f343b846c56a7fdc76f59ec6a7591d7c3da))
+* update module github.com/xanzy/go-gitlab to v0.68.2 ([dab0985](https://www.github.com/lemeurherve/multi-gitter/commit/dab09851cf9b694096ec11084568685efcd860ff))
+
 ## [0.42.0](https://www.github.com/lindell/multi-gitter/compare/v0.41.0...v0.42.0) (2022-05-06)
 
 
